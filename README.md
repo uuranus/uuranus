@@ -3,7 +3,7 @@
 
 
 <p align = "center">
-I like creating attractive and beautiful UI with Jetpack Compose.
+I like creating attractive and beautiful UI
   </p>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:uuranus.dev@gmail.com)
