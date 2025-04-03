@@ -38,7 +38,7 @@ I like creating attractive and beautiful UI
 <div id = "projects">
   <h4 >💻 PROJECTS</h4>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuranus&repo=Team7-BungeoBbang&theme=shadow_blue)](https://github.com/uuranus/compose-nature-effects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuranus&repo=schedule-calendar-compose&theme=shadow_blue)](https://github.com/uuranus/schedule-calendar-compose) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuranus&repo=Team7-BungeoBbang&theme=shadow_blue)](https://github.com/uuranus/Team7-BungeoBbang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuranus&repo=schedule-calendar-compose&theme=shadow_blue)](https://github.com/uuranus/schedule-calendar-compose) 
   
 </div>
 
